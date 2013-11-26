@@ -43,8 +43,15 @@ And oogle over the Subversion Tree
 to find: the [appcfg.py][5] source code
 
 
+There is the App Engine Register
+================================
+
+Go here: [the register of the App Engine][6]. why?
+
+
 [1]:(https://developers.google.com/appengine/docs/go/gettingstarted)
 [2]:(https://code.google.com/p/googleappengine/)
 [3]:(https://developers.google.com/appengine/docs/go/tools/devserver)
 [4]:(https://developers.google.com/appengine/docs/go/tools/uploadinganapp)
 [5]:(https://code.google.com/p/googleappengine/source/browse/branches/1.2.1/python/google/appengine/tools/appcfg.py)
+[6]:(https://appengine.google.com/)
