@@ -4,7 +4,7 @@ hello
 This is about go.
 It is also about the google app engine
 After installing the app engine in one place, 
-now, look at it in a little more detail.
+now, look at it with a focus on its detail.
 
 Google App Engine Tutorial
 ==========================
@@ -14,6 +14,7 @@ start here: with the [tutorial about go within the App Engine][1]
 Then, look deeper into the App..
 ================================
 Go here: some [app engine source...][2]
+and interestingly speaking 'go': [goapp, deploy, serve][7]
 
 ## Looking about the Cloudy Components
 There is the [goapp][3] `go development server`
@@ -55,3 +56,4 @@ Go here: [the register of the App Engine][6]. why?
 [4]:https://developers.google.com/appengine/docs/go/tools/uploadinganapp
 [5]:https://code.google.com/p/googleappengine/source/browse/branches/1.2.1/python/google/appengine/tools/appcfg.py
 [6]:https://appengine.google.com/
+[7]:http://code.google.com/p/appengine-go
