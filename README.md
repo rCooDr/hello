@@ -49,6 +49,10 @@ There is the App Engine Register
 
 Go here: [the register of the App Engine][6]. why?
 
+Use Essential Facilities, Programming Matters
+=============================================
+
+Using authentication with Google: [OAuth2][8]
 
 [1]:https://developers.google.com/appengine/docs/go/gettingstarted
 [2]:https://code.google.com/p/googleappengine/
@@ -57,3 +61,4 @@ Go here: [the register of the App Engine][6]. why?
 [5]:https://code.google.com/p/googleappengine/source/browse/branches/1.2.1/python/google/appengine/tools/appcfg.py
 [6]:https://appengine.google.com/
 [7]:http://code.google.com/p/appengine-go
+[8]:https://developers.google.com/accounts/docs/OAuth2
