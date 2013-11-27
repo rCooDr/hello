@@ -1,8 +1,8 @@
 hello
 =====
 
-This is about go.
-It is also about the google app engine
+This is about go. 
+It is also about the google app engine 
 After installing the app engine in one place, 
 now, look at it with a focus on its detail.
 
