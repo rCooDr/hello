@@ -1,9 +1,9 @@
 hello
 =====
 
-This is about go. 
-It is also about the google app engine 
-After installing the app engine in one place, 
+This is about go.  
+It is also about the google app engine  
+After installing the app engine in one place,  
 now, look at it with a focus on its detail.
 
 Google App Engine Tutorial
@@ -13,7 +13,7 @@ start here: with the [tutorial about go within the App Engine][1]
 
 Then, look deeper into the App..
 ================================
-Go here: some [app engine source...][2]
+Go here: some [app engine source...][2]  
 and interestingly speaking 'go': [goapp, deploy, serve][7]
 
 ## Looking about the Cloudy Components
