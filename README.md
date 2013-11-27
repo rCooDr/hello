@@ -49,9 +49,9 @@ There is the App Engine Register
 Go here: [the register of the App Engine][6]. why?
 
 
-[1]:(https://developers.google.com/appengine/docs/go/gettingstarted)
-[2]:(https://code.google.com/p/googleappengine/)
-[3]:(https://developers.google.com/appengine/docs/go/tools/devserver)
-[4]:(https://developers.google.com/appengine/docs/go/tools/uploadinganapp)
-[5]:(https://code.google.com/p/googleappengine/source/browse/branches/1.2.1/python/google/appengine/tools/appcfg.py)
-[6]:(https://appengine.google.com/)
+[1]:https://developers.google.com/appengine/docs/go/gettingstarted
+[2]:https://code.google.com/p/googleappengine/
+[3]:https://developers.google.com/appengine/docs/go/tools/
+[4]:https://developers.google.com/appengine/docs/go/tools/uploadinganapp
+[5]:https://code.google.com/p/googleappengine/source/browse/branches/1.2.1/python/google/appengine/tools/appcfg.py
+[6]:https://appengine.google.com/
