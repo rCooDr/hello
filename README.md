@@ -1,10 +1,9 @@
 hello
 =====
 
-This is about go.  
-It is also about the google app engine  
-After installing the app engine in one place,  
-now, look at it with a focus on its detail.
+About the Go language. The first hello is now on the [appspot][9].
+However, the deployment process is currently the focus of development,
+and frequent failing are to be expected for some time.
 
 Google App Engine Tutorial
 ==========================
@@ -62,3 +61,4 @@ Using authentication with Google: [OAuth2][8]
 [6]:https://appengine.google.com/
 [7]:http://code.google.com/p/appengine-go
 [8]:https://developers.google.com/accounts/docs/OAuth2
+[9]:http://4.jax-ml-45.appspot.com/post
