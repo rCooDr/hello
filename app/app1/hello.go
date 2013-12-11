@@ -123,4 +123,4 @@ func delete(w http.ResponseWriter, r *http.Request) {
         return
     }
     fmt.Fprintf(w, "<h1>delete</h1> <p>%v!</p>", u)
-~/qnjp-uQ-Vn6/app/hello$
+}
