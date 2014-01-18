@@ -30,7 +30,7 @@ Putting it in the Clouds
 
 Continue reading: about [goapp deploy][4]
 
-    goapp deplay
+    goapp deploy
     
 and/or
 
